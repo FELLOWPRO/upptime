@@ -1,7 +1,7 @@
 url: https://fellowkv2.cloudintegration.eu/
-status: up
-code: 200
-responseTime: 536
-lastUpdated: 2026-03-17T23:06:42.005Z
+status: down
+code: 504
+responseTime: 4407
+lastUpdated: 2026-03-18T10:27:03.007Z
 startTime: 2022-04-14T06:02:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
