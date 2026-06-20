@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-20": 52,
+      "2026-06-20": 137,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
@@ -388,20 +388,21 @@
     "url": "https://fellowkv2.cloudintegration.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/fellowkv2.cloudintegration.eu.ico",
     "slug": "extraction-and-classifications-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
-    "time": 528,
-    "timeDay": 341,
-    "timeWeek": 445,
-    "timeMonth": 472,
-    "timeYear": 562,
+    "time": 536,
+    "timeDay": 2335,
+    "timeWeek": 931,
+    "timeMonth": 593,
+    "timeYear": 572,
     "dailyMinutesDown": {
       "2025-08-01": 409,
-      "2026-03-18": 24
+      "2026-03-18": 24,
+      "2026-06-20": 1
     }
   },
   {
@@ -409,24 +410,25 @@
     "url": "https://doc2app.cloudintegration.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/doc2app.cloudintegration.eu.ico",
     "slug": "doc-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
-    "time": 676,
-    "timeDay": 482,
-    "timeWeek": 671,
-    "timeMonth": 644,
-    "timeYear": 686,
+    "time": 677,
+    "timeDay": 478,
+    "timeWeek": 647,
+    "timeMonth": 638,
+    "timeYear": 685,
     "dailyMinutesDown": {
       "2025-07-01": 135,
       "2025-08-01": 94,
       "2025-10-22": 59,
       "2025-12-10": 76,
       "2026-01-05": 283,
-      "2026-01-04": 730
+      "2026-01-04": 730,
+      "2026-06-20": 1
     }
   },
   {
@@ -446,7 +448,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-20": 53,
+      "2026-06-20": 137,
       "2026-06-19": 1440,
       "2026-06-18": 1440,
       "2026-06-17": 1440,
@@ -818,19 +820,20 @@
     "url": "https://auth.cloudintegration.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/auth.cloudintegration.eu.ico",
     "slug": "doc-authorization-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 475,
-    "timeDay": 335,
-    "timeWeek": 451,
-    "timeMonth": 451,
-    "timeYear": 491,
+    "timeDay": 316,
+    "timeWeek": 432,
+    "timeMonth": 447,
+    "timeYear": 490,
     "dailyMinutesDown": {
-      "2025-12-10": 48
+      "2025-12-10": 48,
+      "2026-06-20": 0
     }
   }
 ]
