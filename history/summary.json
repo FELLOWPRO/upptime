@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloudintegration.eu.ico",
     "slug": "cloud-integration-public",
     "status": "down",
-    "uptime": "51.35%",
+    "uptime": "51.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-29": 53,
+      "2026-06-30": 51,
+      "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
       "2026-06-26": 1440,
@@ -379,8 +380,7 @@
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
-      "2025-07-01": 1440,
-      "2025-06-30": 1440
+      "2025-07-01": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "98.52%",
     "uptimeYear": "99.79%",
     "time": 537,
-    "timeDay": 514,
-    "timeWeek": 435,
-    "timeMonth": 592,
+    "timeDay": 482,
+    "timeWeek": 430,
+    "timeMonth": 595,
     "timeYear": 572,
     "dailyMinutesDown": {
       "2025-08-01": 409,
@@ -411,16 +411,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/doc2app.cloudintegration.eu.ico",
     "slug": "doc-app",
     "status": "down",
-    "uptime": "99.35%",
+    "uptime": "99.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "70.60%",
-    "uptimeYear": "97.29%",
-    "time": 674,
-    "timeDay": 508,
-    "timeWeek": 418,
-    "timeMonth": 554,
-    "timeYear": 680,
+    "uptimeMonth": "67.32%",
+    "uptimeYear": "97.01%",
+    "time": 675,
+    "timeDay": 0,
+    "timeWeek": 403,
+    "timeMonth": 559,
+    "timeYear": 681,
     "dailyMinutesDown": {
       "2025-07-01": 135,
       "2025-08-01": 94,
@@ -428,7 +428,8 @@
       "2025-12-10": 76,
       "2026-01-05": 283,
       "2026-01-04": 730,
-      "2026-06-29": 53,
+      "2026-06-30": 51,
+      "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
       "2026-06-26": 1440,
@@ -446,7 +447,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/doc2landing.cloudintegration.eu.ico",
     "slug": "doc-landing-page",
     "status": "down",
-    "uptime": "41.24%",
+    "uptime": "41.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -457,7 +458,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-29": 53,
+      "2026-06-30": 51,
+      "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
       "2026-06-26": 1440,
@@ -820,8 +822,7 @@
       "2025-07-04": 1440,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
-      "2025-07-01": 1440,
-      "2025-06-30": 1440
+      "2025-07-01": 1440
     }
   },
   {
@@ -836,9 +837,9 @@
     "uptimeMonth": "96.01%",
     "uptimeYear": "99.66%",
     "time": 482,
-    "timeDay": 459,
-    "timeWeek": 437,
-    "timeMonth": 547,
+    "timeDay": 512,
+    "timeWeek": 438,
+    "timeMonth": 541,
     "timeYear": 497,
     "dailyMinutesDown": {
       "2025-12-10": 48,
