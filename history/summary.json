@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloudintegration.eu.ico",
     "slug": "cloud-integration-public",
     "status": "down",
-    "uptime": "48.93%",
+    "uptime": "48.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-13": 34,
+      "2026-09-14": 34,
+      "2026-09-13": 1440,
       "2026-09-12": 1440,
       "2026-09-11": 1440,
       "2026-09-10": 1440,
@@ -379,8 +380,7 @@
       "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
-      "2025-09-15": 1440,
-      "2025-09-14": 1440
+      "2025-09-15": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.59%",
     "time": 595,
-    "timeDay": 742,
-    "timeWeek": 522,
-    "timeMonth": 506,
+    "timeDay": 534,
+    "timeWeek": 526,
+    "timeMonth": 507,
     "timeYear": 629,
     "dailyMinutesDown": {
       "2026-03-18": 24,
@@ -422,9 +422,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.93%",
     "time": 679,
-    "timeDay": 911,
-    "timeWeek": 842,
-    "timeMonth": 815,
+    "timeDay": 740,
+    "timeWeek": 833,
+    "timeMonth": 814,
     "timeYear": 697,
     "dailyMinutesDown": {
       "2025-10-22": 59,
@@ -479,7 +479,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/doc2landing.cloudintegration.eu.ico",
     "slug": "doc-landing-page",
     "status": "down",
-    "uptime": "39.29%",
+    "uptime": "39.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -490,7 +490,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-09-13": 34,
+      "2026-09-14": 34,
+      "2026-09-13": 1440,
       "2026-09-12": 1440,
       "2026-09-11": 1440,
       "2026-09-10": 1440,
@@ -853,8 +854,7 @@
       "2025-09-18": 1440,
       "2025-09-17": 1440,
       "2025-09-16": 1440,
-      "2025-09-15": 1440,
-      "2025-09-14": 1440
+      "2025-09-15": 1440
     }
   },
   {
@@ -869,10 +869,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 487,
-    "timeDay": 479,
-    "timeWeek": 484,
-    "timeMonth": 472,
-    "timeYear": 493,
+    "timeDay": 318,
+    "timeWeek": 455,
+    "timeMonth": 464,
+    "timeYear": 492,
     "dailyMinutesDown": {
       "2025-12-10": 48,
       "2026-06-21": 445,
